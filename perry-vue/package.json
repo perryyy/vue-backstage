@@ -1,0 +1,39 @@
+{
+  "name": "perry-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "axios": "^0.26.0",
+    "bootstrap-vue": "^2.21.2",
+    "chart.js": "^3.7.1",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.15.6",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "js-base64": "^3.7.2",
+    "script-loader": "^0.7.2",
+    "vue": "^2.6.11",
+    "vue-chartjs": "^3.5.1",
+    "vue-router": "^3.2.0",
+    "vue-star": "^0.0.4",
+    "vuedraggable": "^2.24.3",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.13",
+    "@vue/cli-plugin-router": "~4.5.13",
+    "@vue/cli-plugin-vuex": "~4.5.13",
+    "@vue/cli-service": "~4.5.13",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
