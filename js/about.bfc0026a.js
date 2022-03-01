@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{dda8:function(e,r,t){"use strict";t.r(r);var n=function(){var e=this,r=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,r=e.$createElement,t=e._self._c||r;return t("div",{staticClass:"error"},[t("h1",[e._v("error")])])}],s={name:"error"},c=s,l=t("2877"),o=Object(l["a"])(c,n,a,!1,null,null,null);r["default"]=o.exports}}]);
+//# sourceMappingURL=about.bfc0026a.js.map
